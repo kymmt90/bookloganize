@@ -31,7 +31,7 @@
 
 ```
 $ git clone https://github.com/kymmt90/bookloganize.git
-$ gem install thor bookmeter_scraper
+$ bundle install #(or $ gem install thor bookmeter_scraper)
 ```
 
 Ruby 2.3.1 で動作確認済みです。
